@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Loja 2</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="logo" href="index.html">DOTA 2</a>
+            <div class="mobile-menu">
+                <div class="line-1"></div>
+                <div class="line-2"></div>
+                <div class="line-3"></div>
+            </div>
+            <ul class="nav-list">
+                <li><a class="nav-arcanas" href="arcanas.html">Arcanas</a></li>
+                <li><a class="nav-imortais" href="imortais.html">Imortais</a></li>
+                <li><a class="nav-sobre" href="sobre.html">Sobre</a></li>
+                <li>
+                    <a class="carrinho nav-img" href="carrinho.html"><img src="../img/carrinho.png"></a>
+                    <p id="n-itens">0</p>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <main></main>
+    
+    <section id="carrinho-container" class="carrinho-container">
+        <a id="carrinho-whatsapp" class="carrinho-whatsapp" target="_blank" rel="noreferrer noopener">
+            <img class="carrinho-whatsapp-icon" src="../img/whatsapp.svg">
+        </a>
+    </section>
+
+    <div class="buy">
+        <div>
+            <img id="img">
+        </div>
+        <div class="x">
+            <h1 id="h" class="arcana-h"></h1>
+            <p>Compre direto com um vendedor!</p>
+            <div class="quantidade">
+                <p>Quantidade</p>
+                <button id="less" type="button">-</button>
+                <span id="amount"></span>
+                <button id="more" type="button">+</button>
+            </div>
+            <div class="compra">
+                <div class="whatsapp-icon">
+                    <a id="whatsapp" target="_blank" rel="noreferrer noopener"><img class="icon" src="../img/whatsapp.svg"></a>
+                </div>
+                <div class="carrinho-icon">
+                    <a id="carrinho"><img class="icon" src="../img/carrinho.png"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <h3 class="color">By: Jhonatan C</h3>
+    </footer>
+
+    <script src="../js/navbar.js"></script>
+    <script src="../js/arcana.js"></script>
+    <script src="../js/script.js"></script>
+</body>
+</html>

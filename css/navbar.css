@@ -1,0 +1,150 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: transparent;
+    height: 8vh;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #CF4525;
+    letter-spacing: 4px;
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    z-index: 999;
+}
+
+.nav-list li {
+    letter-spacing: 3px;
+    margin-left: 32px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-list a {
+    font-size: 18px;
+    padding: 5px;
+    text-transform: uppercase;
+}
+
+.carrinho {
+    display: flex;
+    cursor: pointer;
+}
+
+.nav-img {
+    width: 70px;
+    height: 70px;
+}
+
+.nav-list p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+    left: -30px;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    background-color: rgba(23, 26, 33, 0.5);
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    position: relative;
+    pointer-events: none;
+}
+
+.nav-arcanas:hover {
+    color:#A0D358;
+}
+.nav-imortais:hover {
+    color: #DDAA39;
+}
+.nav-sobre:hover {
+    color: #CF4525;
+}
+
+@keyframes movement {
+    0%, 100% {filter: drop-shadow(0 0 0.75rem crimson);}
+    50% {filter: drop-shadow(30px 10px 3px #CF4525);}
+}
+
+.mobile-menu {
+    display: none;
+    cursor: pointer;
+}
+
+.mobile-menu div {
+    width: 32px;
+    height: 2px;
+    background-color: #fff;
+    margin: 8px;
+    transition: 1s ease-out;
+}
+
+@media (max-width: 999px) {
+    body {
+        overflow-x: hidden
+    }
+
+    .nav-list {
+        position: absolute;
+        top: 8vh;
+        right: 0;
+        width: 100vw;
+        height: 100vh;
+        background: rgba(23, 26, 33, 0.95);
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        transform: translateX(100%);
+        transition: transform .3s ease-in;
+    }
+
+    .nav-list li {
+        margin-left: 0;
+        opacity: 0;
+    }
+
+    .mobile-menu {
+        display: block;
+    }
+}
+
+.nav-list.active {
+    transform: translateX(0);
+}
+
+.mobile-menu.active .line-1 {
+    transform: rotate(-405deg) translate(-8px, 8px);
+    height: 4px;
+}
+
+.mobile-menu.active .line-2 {
+    opacity: 0;
+}
+
+.mobile-menu.active .line-3 {
+    transform: rotate(405deg) translate(-7px, -7px);
+    height: 4px;
+
+}
+
+@keyframes navLinkFade {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}

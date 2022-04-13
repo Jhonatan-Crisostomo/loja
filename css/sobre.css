@@ -1,0 +1,25 @@
+.sobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    max-width: 1040px;
+    height: 100vh;
+    margin: 0 auto;
+    backdrop-filter: blur(10px);
+}
+
+.sobre h1, .sobre p {
+    padding: 10px;
+}
+
+.sobre h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.sobre p {
+    font-size: 22px;
+    text-align: justify;
+}

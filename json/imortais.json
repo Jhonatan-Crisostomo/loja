@@ -1,0 +1,67 @@
+[
+    { 
+        "hero": "Marte",
+        "skin": "Clemência Divina da Testemunha Carmesim",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU_qAlOA0HRVfeS0c7fXw8kGg1au7W3PwZs7ODAeDhO6JO7lZKYqPH1P7eDxlRY5ch-mP3A-bPmgF2xpxdtDDWiZtHAbAc4aVvU-le_wrzug5e_7pXIyHox6yIk7XeLyRWwgx9LbbFt0PzKSFSAR_seQJuTaRA/360fx360f"
+    },
+    {
+        "hero": "Zeus",
+        "skin": "Raio da Justiça",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUorA5OA0DZQOy52cbdVGJjIAVHubTqJgJz27zSdChR09C_k4ifmf76NITGk2pB58tOh-bF8IDKhFWmrBZyamGlI9TDJw9tY17V_gTsk-bqjZO77ZnPwHJj73Rzsy2OmUO0iEoaOvsv26LvtE3XUA/360fx360f"
+    },
+    {
+        "hero": "Terrorblade",
+        "skin": "Foices do Sofrimento",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmrAlPQ17SS-Wp0oDHUWJgLF1ov7eoJBV00v_3ZjhD_NO425SJqOP9aoTYm2Ze-tFwhtbW8I3lh1qLpxIuNDztJoGdJw44NQzTrFa5l-a8jZW4up_OznU37yIq7Cvbzkex1BtIZ7Q6huveFwvt0lztBA/360fx360f"
+    },
+    {
+        "hero": "Pudge",
+        "skin": "Lesmandíbula Vasculhadora",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPZSumixdvSX2J1NwkYv7eoJBV00v_3cC9P09C3hoeO2a6hZrjQxD1X68Ym3-yUpNig2QTg-hFtYD_7JdfDIA46Mw7R-Fe2levxxcjrobV02BY/360fx360f"
+    },
+    {
+        "hero": "Troll Warlord",
+        "skin": "Linhagem Cruel",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmuxRRQHPHRvah2N3XHElmKghbia2kOQtvwff3ZTQV09W7mY-Zg_b4DKzUl3te5oplmObN-bPiiUa4pAE4DC2qI-nML1thIxyBpj75lL-v2sjT4MyLnid9unJz7SrdmxG0g0tLbbc9gqSYHF-eVqIfTaWABHaCtpknQHmsHBniyX8QmKZUJ1DwdQ/360fx360f"
+    },
+    {
+        "hero": "Chaos Knight",
+        "skin": "Fulcro do Caos Dourado",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUxoRpSX3PbSe2q39ucUFV1KhdovbSsLA907OfBJgJR5NWzmITElP_1PKjunWVY781ltf3IorPmgF2xpxcDNDavcOnJI0RpNEaD8gTsyOm908W9vMuam3Rr6SlxtCvUyhW2hhhPa-Vm1vKdQFnNU6dLAuDcUfaKnJL0/360fx360f"
+    },
+    {
+        "hero": "Drow Ranger",
+        "skin": "Máscara Maníaca",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HRVO-S2MnsXlxwKwFEpfWoKhRr7PzOTjBD6NKzh5O0m_bmNL6fxDkFuJIm37CR84qjjAPs-0ZoajyiI4eVIQdqYVmG-gK2kO--hsK9voOJlyVS5rNBcw/360fx360f"
+    },
+    {
+        "hero": "Anti-Mage",
+        "skin": "Esmagador de Crânios de Magos Dourado – Secundário",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpw9UQU3XQqu-3NrfX191NgxSpIWiJAtk7PzOdzVD4tj5h4uem_v2MqjZk3lu78p9jtbO84r9iVqw-iwwMiukcZicJlI4Y1DX-AK4xue5g8O-tJ_Nn3Y2vCQjtHnVmxa3gk5JOONrhaScVxzAUKREKObn/360fx360f"
+    },
+    {
+        "hero": "Anti-Mage",
+        "skin": "Esmagador de Crânios de Magos Dourado",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpw9UQU3XQqu-3NrfX191NgxSpIWiJAtknODDZDFO7t2lnIWZqPD7P7-AqWdQ-sJ0xLDE9oqk3ACx_UNlNWChJoSSIVI_N1zTr1S7wLi8hMTpv8jMyyNnvSE8pSGKmX56P4I/360fx360f"
+    },
+    {
+        "hero": "Bloodseeker",
+        "skin": "Lâmina da Sede de Eztzhok — Secundária",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUwpRRSSHPDQuGm0t2cR1V9NxdDibWjFAJ6x-nAfjZ95dG7m5KflvvLJL7QhmRfp9F5g_vS4bP6jmuxsQcmOzaoS9_IL1l8JQmMlQ3vg7m6m5S0usjLyXIx7yAhti7fnxW3h04Ya7Ro0KeaQA-cVqxNFfPRV3LQ45xtCHL9EXYaAig/360fx360f"
+    },
+    {
+        "hero": "Bloodseeker",
+        "skin": "Lâmina da Sede de Eztzhok",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUwpRRSSHPDQuGm0t2cR1V9NxdDibWjFAJ6x-nAfjZ95dG7m5KflvvLJL7QhmRf18p3jOHA-4i6nFy9uQAoDDalS9PfNkxmPgO_owzjnqyr1MrT48ufkSM97k9-tD2Kygux0h0daexrh_aWSlWXBaQdSqGDUHGDsstzTi2qGBvlzTNZxfWpDrjMIq9JZ-G419D-/360fx360f"
+    },
+    {
+        "hero": "Bloodseeker",
+        "skin": "Presas de Eztzhok",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUwpRRSSHPDQuGm0t2cUVF7KgBEs7-uLhVf2v7Ffi9W7dCJnIWKk7j2P7TeknhU7c50mNbI-IH6mkC1pyw0NjinS9rEMFFrf1CFrlntwee715K0v5_AyHRrs3Qm7HfbnUGxgUxJbedqgvyXS1zPBq1XXP7V6cILcDU/360fx360f"
+    },
+    {
+        "hero": "Monkey King",
+        "skin": "Cult of the Demon Trickster",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXQ5BhMYY49vRpiRVjVStuuwsPHbFJyGhBfs4WhLgpv3czcYzRB58-ikZK0m_bmNL6fkjgAvcEhi77C94mj2Vft-RI6Ym_1d9KUJ1M9N1vUr1Dqybq715butYOJlyWdXja5VA/360fx360f"
+    }
+]

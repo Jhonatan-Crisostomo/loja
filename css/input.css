@@ -1,0 +1,77 @@
+.buscar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1200px;
+    top: 50px;
+    padding: 10px;
+    
+}
+
+.text-pesquisa {
+    padding-right: 25px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.buscar input {
+    font-size: 18px;
+    padding: 3px 10px;
+    border: 3px solid #fff;
+    border-radius: 100px;
+    background-color: transparent;
+    background-image: url(/img/search.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 23px;
+    color: transparent;
+    width: 60px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.buscar input:focus {
+    color: #fff;
+    background-position: right 10px bottom 2px;
+    border: 3px solid #74A9F6;
+    outline: 0;
+    width: 540px;
+    cursor: text;
+}
+
+.buscar input::placeholder {
+    color: #74A9F6;
+    font-weight: bold;
+}
+
+.buscar input:focus::placeholder {
+    color: transparent;
+}
+
+@media (max-width: 999px) { 
+    .text-pesquisa {
+        display: none;
+    }
+
+    .buscar {
+        justify-content: center;
+    }
+
+    .buscar input {
+        width: 30vh;
+        background-position: right 10px bottom 2px;
+    }
+
+    .buscar input:focus {
+        color: #fff;
+        background-position: right 10px bottom 2px;
+        border: 3px solid #74A9F6;
+        outline: 0;
+        width: 30vh;
+        cursor: text;
+    }
+}

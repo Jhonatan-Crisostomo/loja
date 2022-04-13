@@ -1,0 +1,42 @@
+[
+    { 
+        "hero": "Zeus",
+        "skin": "Elmo Tempestuoso do Deus do Trovão",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUorA5OA1jVSvSoxNvsW1h4KEtNs6-2FAZy0PLGcAJO7c6xkc7elaf2Z-PVwjIAscQl27qR9o72i1XirktlMG7xdo-UdwM7MlvUq1C8366x0hgzw8Jk/360fx360f"
+    },
+    {
+        "hero": "Zeus",
+        "skin": "Raio da Justiça",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUorA5OA0DZQOy52cbdVGJjIAVHubTqJgJz27zSdChR09C_k4ifmf76NITGk2pB58tOh-bF8IDKhFWmrBZyamGlI9TDJw9tY17V_gTsk-bqjZO77ZnPwHJj73Rzsy2OmUO0iEoaOvsv26LvtE3XUA/360fx360f"
+    },
+    {
+        "hero": "Phantom Assassin",
+        "skin": "Paradoxo Múltiplo",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUioRpTWEPdeOW-xM7AQFR6aglWuLOjJAtk7OPJYzxG48T5lZKIlvn1DKvQqWdQ-sJ0xO3Do9mk2FHm_EJsY2_6LI-dd1U-NVyG81m-ye3sjZa0tZrLnyBiuCc8pSGKRLhN9us/360fx360f"
+    },
+    { 
+        "hero": "Marte",
+        "skin": "Clemência Divina da Testemunha Carmesim",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU_qAlOA0HRVfeS0c7fXw8kGg1au7W3PwZs7ODAeDhO6JO7lZKYqPH1P7eDxlRY5ch-mP3A-bPmgF2xpxdtDDWiZtHAbAc4aVvU-le_wrzug5e_7pXIyHox6yIk7XeLyRWwgx9LbbFt0PzKSFSAR_seQJuTaRA/360fx360f"
+    },
+    {
+        "hero": "Juggernaut",
+        "skin": "Legado Laminar",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU4vBxaSV7eRvG5mM7BUFx6JEtdo72iLhVu0ubcTjxQ7924lb-GluT_DKjFj2dUufp9i_vG8ML0iQLgrkBqZWHxJoaSelc6Z1-E_Afsx-jugJbp752cwHMxviVxty7fgVXp1qH0S4DD/360fx360f"
+    },
+    {
+        "hero": "Troll Warlord",
+        "skin": "Linhagem Cruel",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmuxRRQHPHRvah2N3XHElmKghbia2kOQtvwff3ZTQV09W7mY-Zg_b4DKzUl3te5oplmObN-bPiiUa4pAE4DC2qI-nML1thIxyBpj75lL-v2sjT4MyLnid9unJz7SrdmxG0g0tLbbc9gqSYHF-eVqIfTaWABHaCtpknQHmsHBniyX8QmKZUJ1DwdQ/360fx360f"
+    },
+    {
+        "hero": "Pudge",
+        "skin": "Festa da Abscensão",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPRVees2c6cQ0hwIgFot6imKglh7PHJcjZ94N2kk4XFxvOia-6Glz5TupIpiOiQ9N_w3Qfs-hFrZWr3INDGJAQ-Z1jV-Fi2wvCv28HWthLbgw/360fx360f"
+    },
+    {
+        "hero": "Pudge",
+        "skin": "Lesmandíbula Vasculhadora",
+        "img": "https://community.akamai.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPZSumixdvSX2J1NwkYv7eoJBV00v_3cC9P09C3hoeO2a6hZrjQxD1X68Ym3-yUpNig2QTg-hFtYD_7JdfDIA46Mw7R-Fe2levxxcjrobV02BY/360fx360f"
+    }
+]

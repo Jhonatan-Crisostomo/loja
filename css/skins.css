@@ -1,0 +1,58 @@
+.arcanas, .imortais, .pg-carrinho-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1440px;
+    margin: 100px auto 100px;
+    backdrop-filter: blur(10px);
+}
+
+.arcanas img, .imortais img, .pg-carrinho-container img {
+    max-width: 100%;
+    padding: 10px;
+    display: block;
+}
+
+.arcanas a, .imortais a, .pg-carrinho-container a {
+    flex: 1 1 360px;
+    max-width: 360px;
+    transition: 0.3s;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid;
+    opacity: 0.9;
+}
+
+.arcanas > a:hover, .imortais > a:hover, .pg-carrinho-container > a:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+.pg-carrinho-container a {
+    cursor: pointer;
+}
+
+.pg-carrinho-container span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -10px;
+    color: #fff;
+    pointer-events: none;
+}
+
+.pg-carrinho-whatsapp {
+    display: flex;
+}
+
+.vazio {
+    color: #fff;
+    width: 100vw;
+    height: 84vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    backdrop-filter: blur(10px);
+}

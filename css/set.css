@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: url(../img/dota-2.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    opacity: .9;
+    transition: .3s;
+}
+
+a:hover {
+    opacity: 1;
+}
+
+/*main {
+    height: 84vh;
+}*/
+
+::-webkit-scrollbar {
+    display: none;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.display-none {
+    display: none;
+}
+
+
+.color {
+    animation: color 3s infinite;
+}
+
+@keyframes color {
+    0%, 100% {
+        color: #fff;
+        filter: drop-shadow(30px 10px 4px #fff);
+    }
+    25% {
+        color: #A0D358;
+        filter: drop-shadow(30px 10px 4px #A0D358);
+    }
+    50% {
+        color: #DDAA39;
+        filter: drop-shadow(30px 10px 4px #DDAA39);
+    }
+    75% {
+        color: #CF4525;
+        filter: drop-shadow(30px 10px 4px #CF4525);
+    }
+}
+
+@media (max-width: 1799px) {
+    .sections, .skins, .arcanas, .pg-carrinho-container {
+        max-width: 1440px;
+    }
+
+    .carrinho-container {
+        display: none;
+    }
+}
+
+@media (max-width: 1439px) {
+    body {
+        background: url(../img/d2.jpg) no-repeat center center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    .sections, .skins, .arcanas, .pg-carrinho-container {
+        max-width: 1080px;
+    }
+
+    .destaques p {
+        display: none;
+    }
+}
+
+@media (max-width: 1079px) {
+    .sections, .skins, .arcanas, .pg-carrinho-container {
+        max-width: 720px;
+    }
+}
+
+@media (max-width: 719px) {
+    .sections, .skins, .arcanas, .pg-carrinho-container {
+        max-width: 360px;
+    }
+}
+

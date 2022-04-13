@@ -1,0 +1,67 @@
+[
+    { 
+        "hero": "Zeus",
+        "skin": "Elmo Tempestuoso do Deus do Trovão",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUorA5OA1jVSvSoxNvsW1h4KEtNs6-2FAZy0PLGcAJO7c6xkc7elaf2Z-PVwjIAscQl27qR9o72i1XirktlMG7xdo-UdwM7MlvUq1C8366x0hgzw8Jk/360fx360f"
+    },
+    {
+        "hero": "Phantom Assassin",
+        "skin": "Paradoxo Múltiplo",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUioRpTWEPdeOW-xM7AQFR6aglWuLOjJAtk7OPJYzxG48T5lZKIlvn1DKvQqWdQ-sJ0xO3Do9mk2FHm_EJsY2_6LI-dd1U-NVyG81m-ye3sjZa0tZrLnyBiuCc8pSGKRLhN9us/360fx360f"
+    },
+    {
+        "hero": "Juggernaut",
+        "skin": "Legado Laminar",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU4vBxaSV7eRvG5mM7BUFx6JEtdo72iLhVu0ubcTjxQ7924lb-GluT_DKjFj2dUufp9i_vG8ML0iQLgrkBqZWHxJoaSelc6Z1-E_Afsx-jugJbp752cwHMxviVxty7fgVXp1qH0S4DD/360fx360f"
+    },
+    {
+        "hero": "Terrorblade",
+        "skin": "Chifres Fractais do Abismo Interior",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXL5B5QK5l9vR5PXkPCReis08qcUk93JApWia6gORVvwfHEcDlH09C3hoeO2fb3au3Uzm4BuMNy0ryS9Nmm3w3m_RZlamH0IISVcwE8YQ6F81PqxLzxxcjrOGl8rcI/360fx360f"
+    },
+    {
+        "hero": "Pudge",
+        "skin": "Festa da Abscensão",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPRVees2c6cQ0hwIgFot6imKglh7PHJcjZ94N2kk4XFxvOia-6Glz5TupIpiOiQ9N_w3Qfs-hFrZWr3INDGJAQ-Z1jV-Fi2wvCv28HWthLbgw/360fx360f"
+    },
+    {
+        "hero": "Lina",
+        "skin": "Alma Ardente da Assassina",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU-oBVcA0PCTuOk2dzsVVF1KAFft7O3ZAhy2vTBfy596tC3mYWDlv7mDLfQhGxUpsNy2rqUp9Tz3wK3rxJpZzuiIICQIFM3ZAuF-gLtlei50JPqtJWdnHZ9-n51ufMfTh8/360fx360f"
+    },
+    {
+        "hero": "Crystal Maiden",
+        "skin": "Pacote: Avalanche Gélida",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXL5B5QK5l9qglEX1jRS9ug1sbXVlM7JhZOpa6kJzht0vrMdDN97c61lY6KqPX1MLCDqWdQ-sJ0xOzDp9X2jAK38kJpNWn6cIORIFJvYV7XqFjrkLu5gpS4uJ2dz3NkuiM8pSGKi3BCAuI/360fx360f"
+    },
+    {
+        "hero": "Ogre Magi",
+        "skin": "Aposta de Penada",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU9rglYc0HRQO3i2MjBVmJ5JANeibu3KAZu0rzHdi9H09G3k4m0luX3MrXQqWNU6cFOhujT8om72VfsrxdoNW7yI9CUeg47aV2F-le4kuvr0Mftu5rNmnM2viMl53_Vmgv3308bIpIprw/360fx360f"
+    },
+    {
+        "hero": "Shadow Fiend",
+        "skin": "Devorador de Demônios",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU8rA1YXkHfVeHixMfSV1JjIw1SuL6aLwJt3P33dDxW6c6JmIGZkPK6YeKDkD0Hu8R027nC9t302wDhrUJrN2HzJdKUIAM8YgmE-1O2yebpg4j84sqCpPG6Jg/360fx360f"
+    },
+    {
+        "hero": "Legion Commander",
+        "skin": "Lâminas de Voth Domosh",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU-rBxUQ0LvROug2s7dV1hmagBSu7WrFBR33OHMTjFD_tuz2tjSwfWhNb-GlTJUucYljL-Vp4r0iQO1qkQ5YTv1LNKUJwY4Zg3UrwSggbC4bLO3q6c/360fx360f"
+    },
+    {
+        "hero": "Rubick",
+        "skin": "Cifra do Mago",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUgvBlUT0efRvau1sHSHFB1IhFEibm8Ow9lwczEcC9F6ZLkxNnZkaOlYL-BlDwAv5Iki7DFrI703layqRVvZW32IofGcAVoYViC5BHglmEC4zWT/360fx360f"
+    },
+    {
+        "hero": "Techies",
+        "skin": "Suíno da Galé Submersa",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmrBhVRUnDCOak0NzbXEk7Jw1QpbKqPzhixv3MfTh94N2kk4XFwaOlYeyEwTxU650g2e-RpNXxjgPm_RE6Y2ryIdCQIVNqZwrUr1C4xfCv28E5kp4OVw/360fx360f"
+    },
+    {
+        "hero": "Monkey King",
+        "skin": "Reconhecimento do Grande Sábio",
+        "img": "https://community.cloudflare.steamstatic.com/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU_phVWSVXvTO2j0IDeXFN_IB1ovbOrLDhhwfDJfzx95Nm3kM-GmPn_NqLunWJf7_pwmOrA-43KhFWmrBZyMjr6LIaXdAM2Ml2FqwLvku3tgZPq7p_Oy3Mx6Scr5CyOmBGwgUtJPPsv26KC8n8Rpg/360fx360f"
+    }
+]

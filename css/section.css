@@ -1,0 +1,154 @@
+.sections {
+    max-width: 1440px;
+    margin: 100px auto 100px;
+    backdrop-filter: blur(10px);
+}
+
+.sections img {
+    display: block;
+    max-width: 100%;
+    padding: 10px;
+    scroll-snap-align: start;
+}
+
+.destaques a {
+    display: flex;
+    align-items: center;
+}
+
+.destaques img {
+    max-width: 360px;
+}
+
+.destaques p {
+    width: 1060px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.destaques, .skins {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+}
+
+.skins, .destaques {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.skins img {
+    max-width: 180px;
+    border-bottom: 3px solid;
+}
+
+.skins a:hover {
+    transform: scale(1.1);
+}
+
+.sections button {
+    position: fixed;
+    height: 360px;
+    padding: 7px;
+    font-size: 50px;
+    font-weight: bold;
+    color: #fff;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    opacity: .1;
+    z-index: 99;
+}
+
+.skins button {  
+    height: 183px;
+}
+
+.button-left {
+    left: -50px;
+    animation: movement-left 2s infinite;
+}
+
+.button-right {
+    right: -50px;
+    animation: movement-right 2s infinite;
+}
+
+.sections button:hover {
+    opacity: 1;
+}
+
+@keyframes movement-left {
+    0%, 100% {left: -50px;}
+    50% {left: -60px;}
+}
+
+@keyframes movement-right {
+    0%, 100% {right: -50px;}
+    50% {right: -60px;}
+}
+
+.carrinho-container {
+    max-height: 81vh;
+    cursor: pointer;
+    overflow-y: scroll;
+    position: fixed;
+    right: 3px;
+}
+
+.carrinho-iten {
+    max-width: 120px;
+    max-height: 120px;
+}
+
+.carrinho-container img {
+    max-width: 120px;
+}
+
+.carrinho-iten:hover {
+    background-color: rgba(255, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.carrinho-whatsapp {
+    position: absolute;
+    bottom: 0px;
+    cursor: pointer;
+}
+
+.carrinho-whatsapp-icon {
+    position: fixed;
+}
+
+.whatsapp:hover {
+    transform: scale(1.1);
+}
+
+.carrinho-iten span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    top: -50px;
+    color: #fff;
+    pointer-events: none;
+}
+
+@media (max-width: 999px) {
+    .sections img {
+        max-width: 180px;
+    }
+
+    .sections button {
+        display: none;
+    }
+
+    .destaques {
+        display: none;
+    }
+}   

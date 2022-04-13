@@ -1,0 +1,109 @@
+.buy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    height: 84vh;
+    margin: 0 auto;
+    cursor: default;  
+}
+
+.buy img {
+    backdrop-filter: blur(10px);
+}
+
+.arcana-h {
+    font-size: 40px;
+    color: #A0D358;
+}
+
+.imortal-h {
+    font-size: 40px;
+    color: #DDAA39;
+}
+
+
+#skin-name::after {
+    content: "|";
+    margin-left: 5px;
+    opacity: 1;
+    animation: barra 1s infinite;
+}
+
+@keyframes barra {
+    0%, 100% {opacity: 1;}
+    50% {opacity: 0;}
+}
+
+.buy p {
+    color: #fff;
+    font-size: 22px;
+}
+
+.quantidade p {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.quantidade button {
+    width: 22px;
+    height: 22px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.quantidade span {
+    color: #fff;
+    padding: 0 5px 0;  
+}
+
+.x {
+    width: 1040px;
+    height: 360px;
+    text-align: center;
+    backdrop-filter: blur(10px);
+}
+
+.compra {
+    display: flex;
+    justify-content: center;
+}
+
+.whatsapp-icon {
+    width: 160px;
+    height: 96px;
+    padding-top: 25px;
+}
+
+.carrinho-icon {
+    width: 96px;
+    height: 96px;
+}
+
+.icon {
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.arcana-h, .imortal-h, .buy p, .icon {
+    margin-top: 27px;
+}
+
+.icon:hover {
+    transform: scale(1.1);
+}
+
+@media (max-width: 1399px) {
+    .buy {
+        flex-direction: column;
+        height: auto;
+    }
+    .x {
+        display: flex;
+        flex-direction: column;
+        max-width: 360px;
+        height: 450px;
+    }
+}
