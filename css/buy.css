@@ -6,11 +6,8 @@
     max-width: 1400px;
     height: 84vh;
     margin: 0 auto;
-    cursor: default;  
-}
-
-.buy img {
     backdrop-filter: blur(10px);
+    cursor: default;  
 }
 
 .arcana-h {
@@ -63,7 +60,6 @@
     width: 1040px;
     height: 360px;
     text-align: center;
-    backdrop-filter: blur(10px);
 }
 
 .compra {

@@ -31,11 +31,16 @@ for ( var i = 0; i < localStorage.length; i++ ) {
     img.alt = id
     document.getElementById( "pg-iten-" + [i] ).appendChild( img )
 
+    const p = document.createElement( "p" )
+    p.innerHTML = "<b>" + id
+    document.getElementById( "pg-iten-" + [i] ).appendChild( p )
+
     const span = document.createElement( "span" )
-    span.innerHTML = "Remover 1 de " + Object.values(jsonParse)[1] + " iten(s)"
+    span.id = "pg-span-" + [i]
+    span.innerHTML = "Remover 1 de " + Object.values(jsonParse)[1]
     document.getElementById( "pg-iten-" + [i] ).appendChild( span )
     
-    const remove = document.getElementById( "pg-iten-" + [i] )
+    const remove = document.getElementById( "pg-span-" + [i] )
     remove.addEventListener( "click", ( ) => {
         if ( Object.values( jsonParse )[1] > 1 ) {
             const amount = Object.values( jsonParse )[1] - 1

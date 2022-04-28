@@ -2,7 +2,7 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: transparent;
+    background-color: rgba(23, 26, 33, 0.5);
     height: 8vh;
 }
 
