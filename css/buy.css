@@ -10,6 +10,11 @@
     cursor: default;  
 }
 
+.destaque-h {
+    font-size: 40px;
+    color: #CF4525;
+}
+
 .arcana-h {
     font-size: 40px;
     color: #A0D358;
@@ -83,7 +88,7 @@
     cursor: pointer;
 }
 
-.arcana-h, .imortal-h, .buy p, .icon {
+.destaque-h, .arcana-h, .imortal-h, .buy p, .icon {
     margin-top: 27px;
 }
 

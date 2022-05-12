@@ -11,7 +11,7 @@ fetch( "../json/destaques.json" )
       const a = document.createElement( "a" )
       a.id = "destaque-iten-" + [i]
       a.classList = "iten destaque"
-      a.href = "arcana.html?skin=" + [i]
+      a.href = "destaque.html?skin=" + [i]
       a.name = Object.values( jsonParse[i] )[1]
       document.getElementById( "destaques" ).appendChild( a )
   
