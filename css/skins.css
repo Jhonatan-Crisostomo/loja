@@ -1,8 +1,9 @@
 .arcanas, .imortais {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     max-width: 1440px;
-    margin: 100px auto;
+    margin: 100px auto 0;
     backdrop-filter: blur(10px);
 }
 
@@ -29,9 +30,10 @@
 
 .pg-carrinho-container {
     max-width: 1440px;
-    height: 84vh;
+    min-height: 92vh;
     justify-content: center;
-    margin: 100px auto 100px;
+    margin: 0px auto;
+    border-radius: 10px;
     backdrop-filter: blur(10px);
     cursor: default;
     display: flex;
@@ -70,13 +72,16 @@
 }
 
 .vazio {
-    color: #fff;
     width: 100vw;
-    height: 84vh;
+    min-height: 92vh;
+    height: max-content;
     display: flex;
     text-align: center;
     justify-content: center;
     align-items: center;
-    font-weight: bold;
     backdrop-filter: blur(10px);
+}
+.vazio {
+    color: #fff;
+    font-weight: bold;
 }

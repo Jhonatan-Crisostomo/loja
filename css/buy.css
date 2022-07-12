@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: center;
     max-width: 1400px;
-    height: 84vh;
+    min-height: 92vh;
     margin: 0 auto;
     backdrop-filter: blur(10px);
     cursor: default;  

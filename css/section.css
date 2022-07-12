@@ -1,7 +1,8 @@
 .sections {
-    max-width: 1440px;
-    margin: 100px auto 100px;
+    max-width: 75vw;
+    margin: 100px auto 0;
     backdrop-filter: blur(10px);
+    border-radius: 10px;
 }
 
 .sections img {
@@ -87,15 +88,7 @@
 }
 
 @media (max-width: 999px) {
-    .sections img {
-        max-width: 180px;
-    }
-
     .destaques p {
         display: none;
-    }
-
-    .destaques button {
-        height: 183px;
     }
 }   
