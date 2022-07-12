@@ -11,6 +11,7 @@ menu.addEventListener( "click", () => {
             Object.values( link )[i].style.animation = `navLinkFade .5s ease forwards ${[i] / 7 + 0.3}s`
             window.scrollBy(0,-80);
             document.body.style.overflow = "hidden"
+            navlist.disabled = true
         }
     }else {
         for ( i = 0; i < Object.values( link ).length; i++ ) {

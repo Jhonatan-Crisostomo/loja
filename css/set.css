@@ -11,6 +11,9 @@ body {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
 }
 
 a {
@@ -70,6 +73,9 @@ a:hover {
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
+        -o-background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
     }
     .sections, .skins, .arcanas, .pg-carrinho-container {
         max-width: 1080px;
