@@ -11,12 +11,14 @@ menu.addEventListener( "click", () => {
             Object.values( link )[i].style.animation = `navLinkFade .5s ease forwards ${[i] / 7 + 0.3}s`
             window.scrollBy(0,-80);
             document.body.style.overflow = "hidden"
-            menu.disabled = true
+            navlist.style.display = "flex"
         }
     }else {
         for ( i = 0; i < Object.values( link ).length; i++ ) {
             Object.values( link )[i].style.animation = "none"
             document.body.style.overflow = "visible"
+            navlist.style.display = "none"
+            navlist.disabled = true
         }
     }
 

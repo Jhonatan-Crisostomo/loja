@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url(../img/dota-2.jpg);
+    background: url(../img/dota-2-hd.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -68,14 +68,11 @@ a:hover {
 
 @media (max-width: 1519px) {
     body {
-        background: url(../img/d2.jpg);
+        background: url(../img/dota-2-hd.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
         background-attachment: fixed;
-        -o-background-size: cover;
-        -moz-background-size: cover;
-        -webkit-background-size: cover;
     }
     .sections, .skins, .arcanas, .pg-carrinho-container {
         max-width: 1080px;
@@ -92,9 +89,12 @@ a:hover {
     }
 }
 
-@media (max-width: 719px) {
-
+@media (max-width: 800px) {
     .pg-carrinho-container p {
+        display: none;
+    }
+    
+    .sections button {
         display: none;
     }
 }
